@@ -1,2 +1,2 @@
 # vue-demo
-a learn vue-demo
+vue-demo
